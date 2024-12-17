@@ -12,9 +12,9 @@ private:
     int totalTrucks;
 public:
     getNumrobots(int numberOfRobots);
-    getNumtrucks(int totalTrucks);
 
     void output();
+    void work();
 
 
 }
